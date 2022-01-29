@@ -6,15 +6,21 @@
     "id": 1
   },
   {
-    "nombre": "Xbox Series S",
-    "precio": "7299",
+    "nombre": "Xbox Series X",
+    "precio": "12999",
     "thumbnail": "amazon.com.ms",
     "id": 2
   },
   {
-    "nombre": "Xbox Series S",
-    "precio": "7299",
+    "nombre": "Smart Bike",
+    "precio": "27999",
     "thumbnail": "amazon.com.ms",
     "id": 3
+  },
+  {
+    "nombre": "Redmi Note 10",
+    "precio": "5999",
+    "thumbnail": "mercadolibre.com.mx",
+    "id": 4
   }
 ]
